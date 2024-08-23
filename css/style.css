@@ -1,0 +1,145 @@
+div {
+    width: 90px;
+    height: 90px;
+    border: 5px solid #750000;
+    border-radius: 12px;
+    background: url('../imgs/nerv.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.c1:active {
+    background: url('../imgs/reiayanami.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c2:active {
+    background: url('../imgs/misato.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c3:active {
+    background: url('../imgs/kaworu.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c4:active {
+    background: url('../imgs/shinjimatchrei.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c5:active{
+    background: url('../imgs/ryoji.jfif');
+    background-position: center;
+    background-size: cover;
+}
+
+.c6:active {
+
+    background: url('../imgs/asuka.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c7:active {
+    background: url('../imgs/unit01.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c8:active {
+
+    background: url('../imgs/gendoikari.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.c9:active {
+    background: url('../imgs/ritsuko.webp');
+    background-position: center;
+    background-size: cover;
+}
+
+.c10:active {
+
+    background: url('../imgs/maya.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c11:active {
+    background: url('../imgs/aobashigeru.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.c12:active {
+
+    background: url('../imgs/toji.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c13:active {
+    background: url('../imgs/eva2.jpg');
+        background-position: center;
+    background-size: cover;
+}
+
+.c14:active {
+
+    background: url('../img/icon\ 🍮.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c14:active {
+    background: url('../imgs/haikyuu.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.c15:active {
+
+    background: url('../img/icon\ 🍮.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c16:active {
+    background-image: url('../imgs/haikyuu.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.c17:active {
+
+    background: url('../img/icon\ 🍮.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.c18:active {
+    background: url('../imgs/haikyuu.png');
+    background-position: center;
+    background-size: cover;
+}
+
+table {
+    margin: 0 auto;
+}
+
+body{
+    background: url('../imgs/bodyrei.png');
+    height: 99vh;
+    width: 99vw;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
