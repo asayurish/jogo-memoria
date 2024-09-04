@@ -29,7 +29,7 @@ div {
 }
 
 .c4:active {
-    background: url('../imgs/shinjimatchrei.jpg');
+    background: url('../imgs/shinji.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -94,45 +94,46 @@ div {
 
 .c14:active {
 
-    background: url('../img/icon\ 🍮.jpg');
+    background: url('../imgs/unit4.webp');
     background-position: center;
     background-size: cover;
 }
 
 .c14:active {
-    background: url('../imgs/haikyuu.png');
+    background: url('../imgs/unit00.jpg');
     background-position: center;
     background-size: cover;
 }
 
 .c15:active {
 
-    background: url('../img/icon\ 🍮.jpg');
+    background: url('../imgs/unit3.webp');
     background-position: center;
     background-size: cover;
 }
 
 .c16:active {
-    background-image: url('../imgs/haikyuu.png');
+    background-image: url('../imgs/eva6.webp');
     background-position: center;
     background-size: cover;
 }
 
 .c17:active {
 
-    background: url('../img/icon\ 🍮.jpg');
+    background: url('../imgs/eva8.jpg');
     background-position: center;
     background-size: cover;
 }
 
 .c18:active {
-    background: url('../imgs/haikyuu.png');
+    background: url('../imgs/eva9.webp');
     background-position: center;
     background-size: cover;
 }
 
 table {
     margin: 0 auto;
+    margin-top: 50px;
 }
 
 body{
